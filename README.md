@@ -1,1 +1,2 @@
 # kotlinGL
+tasks/publish/publishToMavenLocal

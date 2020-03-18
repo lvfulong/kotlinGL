@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.inoutch:kotlin-gl-android:0.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2a01f8afaeebcbf553d72a08ea55ca38/kotlin-gl-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2a01f8afaeebcbf553d72a08ea55ca38/kotlin-gl-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/io/github/inoutch/kotlin-gl-android/0.0.1/kotlin-gl-android-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

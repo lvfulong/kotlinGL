@@ -1,0 +1,38 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../kotlin-gl/0.0.1/kotlin-gl-0.0.1.module",
+    "group": "io.github.inoutch",
+    "module": "kotlin-gl",
+    "version": "0.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.0.1",
+      "buildId": "mjkzttkdprhthgl3peqm3wqpvy"
+    }
+  },
+  "variants": [
+    {
+      "name": "metadata-api",
+      "attributes": {
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "files": [
+        {
+          "name": "kotlin-gl-metadata-0.0.1.jar",
+          "url": "kotlin-gl-metadata-0.0.1.jar",
+          "size": 13323,
+          "sha512": "d7bc3eaa4bfcf27948245c7f6cab0cd9c03012ce4104832226e6604f6f6ae59b4ce985f667ca0771466abba749c98eb5181bd6baa0754a929930eba78de77bb",
+          "sha256": "ead289754897c5a1ae38e398b1c7f22bbcb9cdffe5d339e55bbf6fa23cbe2987",
+          "sha1": "815c676970882f75c263164cd71c0afd18c64dd5",
+          "md5": "7186819ec0c6f69082f6e7ab484c66e3"
+        }
+      ]
+    }
+  ]
+}
